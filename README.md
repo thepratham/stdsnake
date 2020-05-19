@@ -36,7 +36,6 @@ cd stdsnake
 ```
 Run the snake game -
 ```
-
 python3 stdsnake.py
 ```
 
