@@ -10,9 +10,9 @@ These instructions will help you out with the easy process of setting up standar
 
 This basic and popuar game has very less requirements.
 
-You basically need python3 installed on your machine with two python packages i.e. random and curses
+You basically need python3 installed on your machine with two python packages i.e. random and curses.
 
-Incase you need to install curses -
+In case you need to install curses -
 
 * __Note -__ For Unix Environments, ```curses``` is already available in Python Standard Library. No need to install anything.
 
