@@ -43,7 +43,7 @@ python3 stdsnake.py
 
 Please support me and in case of any suggestions from your side please feel free to cantact me.
 
-My Email - [thepratham](mail:prathamgarg2010@gmail.com)
+My Email - * [thepratham](mail:prathamgarg2010@gmail.com)
 
 ## Authors
 
