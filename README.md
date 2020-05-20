@@ -12,17 +12,16 @@ This basic and popuar game has very less requirements.
 
 You basically need python3 installed on your machine with two python packages i.e. random and curses
 
-Incase you need to install random and curses -
+Incase you need to install curses -
 
-Random -
-```
-pip3 install random
-```
+__Note -__ For Unix Environments Curses is already available in Python Standard Library. No need install anything.
 
-Curses -
+Curses (For Windows) -
+
 ```
 pip3 install curses
 ```
+
 ### Installing
 
 Just git clone or download and unzip the git repo.
