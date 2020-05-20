@@ -14,12 +14,12 @@ You basically need python3 installed on your machine with two python packages i.
 
 Incase you need to install curses -
 
-__Note -__ For Unix Environments Curses is already available in Python Standard Library. No need install anything.
+* __Note -__ For Unix Environments, ```curses``` is already available in Python Standard Library. No need install anything.
 
-Curses (For Windows) -
+* Curses (For Windows) -
 
 ```
-pip3 install curses
+pip3 install windows-curses
 ```
 
 ### Installing
