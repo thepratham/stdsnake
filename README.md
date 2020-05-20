@@ -1,6 +1,6 @@
 # stdsnake
 
-This is a standard terminal based snake game. Hope you enjoy it.
+This is a standard snake game for linux terminals. Hope you enjoy it.
 
 ## Getting Started
 
