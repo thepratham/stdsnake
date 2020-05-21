@@ -24,7 +24,7 @@ pip3 install windows-curses
 
 ### Installing
 
-Just git clone ```https://github.com/thepratham/stdsnake.git``` or download and unzip the git repo.
+Just ```git clone https://github.com/thepratham/stdsnake.git``` or download and unzip the git repo.
 
 After that just enter the commands below -
 
